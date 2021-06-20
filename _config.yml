@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. Candidate in Mechanical Engineering at Stanford, interested in anything that launches, flies, or explodes"
   location         : "Stanford, CA | Mesquite, Texas"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sarahejohnson24@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
