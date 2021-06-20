@@ -11,9 +11,9 @@ title                    : "Sarah Johnson"
 title_separator          : "-"
 name                     : &name "Sarah Johnson"
 description              : &description "Ph.D. Candidate in Mechanical Engineering at Stanford"
-url                      : https://sarahj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Maverick2441.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sarahj.github.io"
+repository               : "Maverick2441.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
